@@ -1,0 +1,120 @@
+body{
+    background-color: greenyellow;
+    color: black;
+}
+
+/*Tener presente que organizamos los estilos de arriba a abajo*/
+h1{
+   font-size: 40px;
+   color:blue;
+   text-align: center;
+   font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+h2{
+   font-size: 40px;
+   color:blue;
+   text-align: center;
+   font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+h3{
+   font-size: 40px;
+   color:blue;
+   text-align: center;
+   font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+h4{
+   font-size: 40px;
+   color:blue;
+   text-align: center;
+   font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+h5{
+    font-size: 40px;
+    color:blue;
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
+h6{
+    font-size: 40px;
+    color:blue;
+    text-align: center;
+    font-family: cursive;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+img{
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: auto;
+    object-fit: cover;
+    border-radius: 50%;
+}
